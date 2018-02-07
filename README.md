@@ -7,7 +7,7 @@ Welcome to the testing beta for our new Adobe Panel! This started as a small pro
  
 ## Requirements
 - Windows 
-  - OSX version Coming Soon™
+  - OSX version coming with `A13`
 - Adobe Premiere CC 2017
   - Audition version Coming Soon™
 - A SourceAudio Account
