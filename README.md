@@ -15,13 +15,13 @@ Welcome to the testing beta for our new Adobe Panel! This started as a small pro
   - This test is meant for people that already know how to use SourceAudio. This is not a good entry point for new users... yet.
 
 ## Installation
-- Install Adobe Premiere CC 2017
-- Make sure Premiere is closed
-- Download and install the ZXP Installer from http://zxpinstaller.com/
-- Download the [latest release](https://github.com/SourceAudio/sa-adobe-panel-beta/releases)
-- Use the ZXP Installer to install the `SourceAudioAdobePanel_A12.zxp` file. (Drag and drop is finicky, just browse select it)
-- Start Premiere, and go to `Window > Extensions > SourceAudio`
-- Profit!
+1. Install Adobe Premiere CC 2017
+2. Make sure Premiere is closed
+3. Download and install the ZXP Installer from http://zxpinstaller.com/
+4. Download the [latest release](https://github.com/SourceAudio/sa-adobe-panel-beta/releases)
+5. Use the ZXP Installer to install the `SourceAudioAdobePanel_A12.zxp` file. (Drag and drop is finicky, just browse select it)
+6. Start Premiere, and go to `Window > Extensions > SourceAudio`
+7. Profit!
  
 ## Features
 - **Drag and Drop**: Any time you see a track inside the panel, you can click and drag it directly into your timeline. The panel will automatically download and update the placement when it's done. You can also select multiple tracks and drag them all.
