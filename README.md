@@ -11,8 +11,8 @@ Welcome to the testing beta for our new Adobe Panel! This started as a small pro
 - Adobe Premiere CC 2017
   - Audition version Coming Soon™
 - A SourceAudio Account
-- Experience as a SourceAudio user  
-  This test is meant for people that already know how to use SourceAudio. This is not a good entry point for new users... yet.
+- Experience as a SourceAudio user
+  - This test is meant for people that already know how to use SourceAudio. This is not a good entry point for new users... yet.
 
 ## Installation
 1. Install Adobe Premiere CC 2017
