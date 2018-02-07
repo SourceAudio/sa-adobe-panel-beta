@@ -35,7 +35,6 @@ Welcome to the testing beta for our new Adobe Panel! This started as a small pro
 ## FAQ
 - **My panel crashed or something unexpected happened! What do I do?**: *Please* make an issue in this repo with as much detail as you can. 
 - **How do I change my settings?**: In the upper right-hand corner of the panel is a hamburger menu (three horizontal lines) that has your options to change the site you're currently in, settings, and log out.
-- **How can I see what features are on the way?**: You can visit the (Release Notes)[RELEASE_NOTES.md], I detail what's upcoming as well as recent additions.
 - **I have a buddy that wants to test out the panel, can I share it with them?**: Sure! Please ensure they understand this is still in the testing phase, and that they meet the requirements above.
 - **Can you add my very special feature into the panel?**: Mayyyyyybe. Make an issue with `[REQUEST]` in the title, detailing the feature and why you think it'd be useful.
 - **How will I know when a new version comes out?**: For the moment, check back here. I'll add some auto-notification from the panel itself in a future release.
