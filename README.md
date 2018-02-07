@@ -1,5 +1,5 @@
 # SourceAudio Adobe Panel Beta
-> `Current Version: A12`
+> **Current Version**: [A12](https://github.com/SourceAudio/sa-adobe-panel-beta/releases)
 
 Welcome to the testing beta for our new Adobe Panel! This started as a small project that has gained a lot of traction, and we're excited to get in front of new testers!
  
@@ -18,7 +18,7 @@ Welcome to the testing beta for our new Adobe Panel! This started as a small pro
 - Install Adobe Premiere CC 2017
 - Make sure Premiere is closed
 - Download and install the ZXP Installer from http://zxpinstaller.com/
-- Download the [latest release](https://github.com/SourceAudio/sa-adobe-panel-beta/blob/master/SourceAudioAdobePanel_A12.zxp)
+- Download the [latest release](https://github.com/SourceAudio/sa-adobe-panel-beta/releases)
 - Use the ZXP Installer to install the `SourceAudioAdobePanel_A12.zxp` file. (Drag and drop is finicky, just browse select it)
 - Start Premiere, and go to `Window > Extensions > SourceAudio`
 - Profit!
