@@ -1,5 +1,5 @@
 # SourceAudio Adobe Panel Beta
-> **Current Version**: [A12](https://github.com/SourceAudio/sa-adobe-panel-beta/releases) Premiere 2018 does *not* work in A12. Will be fixed in A13
+> **Current Version**: [A12](https://github.com/SourceAudio/sa-adobe-panel-beta/releases) (Premiere 2018 does *not* work in A12. Will be fixed in A13)
 
 Welcome to the testing beta for our new Adobe Panel! This started as a small project that has gained a lot of traction, and we're excited to get in front of new testers!
  
