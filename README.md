@@ -8,7 +8,8 @@ Welcome to the testing beta for our new Adobe Panel! This started as a small pro
 ## Requirements
 - Windows 
   - OSX version coming with `A13`
-- Adobe Premiere CC 2017
+- Adobe Premiere CC 2017 or 2018
+  - Other versions probably work, but I don't know when it stops. Test and let me know!
   - Audition version Coming Soon™
 - A SourceAudio Account
 - Experience as a SourceAudio user
