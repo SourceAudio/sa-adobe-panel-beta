@@ -1,14 +1,13 @@
 # SourceAudio Adobe Panel Beta
-> **Current Version**: [A13](https://github.com/SourceAudio/sa-adobe-panel-beta/releases)
+> **Current Version**: [A14](https://github.com/SourceAudio/sa-adobe-panel-beta/releases)
 
 Welcome to the testing beta for our new Adobe Panel! This started as a small project that has gained a lot of traction, and we're excited to get in front of new testers!
  
-> **Disclaimer**: While this says "beta", it's an alpha. There will be things that might not work. If you find one, please make an issue!
+> **Disclaimer**: While the repo says "beta", it's an alpha. There will be things that might not work. If you find one, please make an issue!
  
 ## Requirements
-- Windows 
-  - OSX version coming with `A14`
-- Adobe Premiere CC 2017
+- Windows or OSX
+- Adobe Premiere CC 2018
   - Other versions probably work, but I don't know when it stops. Test and let me know!
   - Audition version Coming Soon™
 - A SourceAudio Account
@@ -20,7 +19,7 @@ Welcome to the testing beta for our new Adobe Panel! This started as a small pro
 2. Make sure Premiere is closed
 3. Download and install the ZXP Installer from http://zxpinstaller.com/
 4. Download the [latest release](https://github.com/SourceAudio/sa-adobe-panel-beta/releases)
-5. Use the ZXP Installer to install the `SourceAudioAdobePanel_A13.zxp` file. (Drag and drop is finicky, just browse select it)
+5. Use the ZXP Installer to install the `SourceAudioAdobePanel_A14.zxp` file. (Drag and drop is finicky, just browse select it)
 6. Start Premiere, and go to `Window > Extensions > SourceAudio`
 7. Profit!
  
