@@ -1,5 +1,5 @@
 # SourceAudio Adobe Panel Beta
-> **Current Version**: [A18](https://github.com/SourceAudio/sa-adobe-panel-beta/releases)
+> **Current Version**: [A19](https://github.com/SourceAudio/sa-adobe-panel-beta/releases)
 
 Welcome to the testing beta for our new Adobe Panel! This started as a small project that has gained a lot of traction, and we're excited to get in front of new testers!
  
