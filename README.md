@@ -3,7 +3,7 @@
 
 Welcome to the testing beta for our new Adobe Panel! This started as a small project that has gained a lot of traction, and we're excited to get in front of new testers!
  
-> **Disclaimer**: While the repo says "beta", it's probably technically closer to an alpha. There will be things that might not work. If you find one, please make an issue!
+> **Disclaimer**: While the repo says "beta", it's technically closer to an alpha. There will be things that might not work. If you find one, please make an issue!
  
 ## Requirements
 - Windows or OSX
@@ -28,7 +28,7 @@ Welcome to the testing beta for our new Adobe Panel! This started as a small pro
 - **Site Search**: Search all the sites your account is connected to and filter by SFX to quickly find tracks to add to your project.
 - **Playlists**: View and manage your playlists from inside Premiere.
 - **Cuesheet Export**: Instantly save your audio timeline into a RapidCue formatted cuesheet, complete with any metadata your tracks had entered into SourceAudio.
-- **Dynamic Lists**: Easily reference recently played and tracks you've added to your project.
+- **Dynamic Lists**: Easily reference recently played with our dynamic history list.
 - **Automatic Organization**: Easily have added tracks added to paths relative to your project folder, or a specific folder of your choosing.
 
 ## FAQ
