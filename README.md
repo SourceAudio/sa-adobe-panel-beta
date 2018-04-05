@@ -3,7 +3,7 @@
 
 Welcome to the testing beta for our new Adobe Panel! This started as a small project that has gained a lot of traction, and we're excited to get in front of new testers!
  
-> **Disclaimer**: While the repo says "beta", it's an alpha. There will be things that might not work. If you find one, please make an issue!
+> **Disclaimer**: While the repo says "beta", it's probably technically closer to an alpha. There will be things that might not work. If you find one, please make an issue!
  
 ## Requirements
 - Windows or OSX
