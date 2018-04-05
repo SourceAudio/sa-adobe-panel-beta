@@ -8,8 +8,6 @@ Welcome to the testing beta for our new Adobe Panel! This started as a small pro
 ## Requirements
 - Windows or OSX
 - Adobe Premiere CC 2017 or 2018
-  - Other versions probably work, but I don't know when it stops. Test and let me know!
-  - Audition version Coming Soon™
 - A SourceAudio Account
 - Experience as a SourceAudio user
   - This test is meant for people that already know how to use SourceAudio. This is not a good entry point for new users... yet.
