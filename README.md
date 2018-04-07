@@ -33,7 +33,7 @@ Welcome to the testing beta for our new Adobe Panel! This started as a small pro
 
 ## FAQ
 - **My panel crashed or something unexpected happened! What do I do?**  
-  *Please* make an issue in this repo with as much detail as you can. If you're comfortable with this sort of thing, head to http://localhost:7778/ select the panel, and then save the console log to attach to your issue.
+  *Please* make an issue in this repo with as much detail as you can. If you're comfortable with this sort of thing, head to http://localhost:7778/ select the panel, and then take a screenshot of the most recent logs in there and include it in your report.
 - **How do I change my settings?**  
   In the bottom-left corner of the panel is a cog menu that has your options to change the site you're currently in, settings, and log out.
 - **I have a buddy that wants to test out the panel, can I share it with them?**  
