@@ -1,7 +1,7 @@
 # SourceAudio Adobe Panel Beta
 > **Current Version**: [B1](https://github.com/SourceAudio/sa-adobe-panel-beta/releases)
 
-We're back! The panel has been rebuilt from the ground up. No long is the panel a poor copy of SourceAudio. It's now actually SourceAudio with advanced features added for use inside Adobe Premiere!
+We're back! The panel has been rebuilt from the ground up. No longer is the panel a poor copy of SourceAudio. It's now actually SourceAudio with advanced features added for use inside Adobe Premiere!
 
 We think you're going to love it™, but it is the first public release of this version of the panel, so please let us know about any issues you come across.
  
